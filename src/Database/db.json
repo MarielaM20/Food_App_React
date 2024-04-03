@@ -1,0 +1,67 @@
+{
+  "foods": [
+    {
+      "name": "Burger",
+      "description": "A burger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan-fried, grilled, or flame-broiled. It is commonly topped with various ingredients such as lettuce, tomato, onion, pickles, cheese, and condiments like ketchup, mustard, or mayonnaise. Burgers are a popular fast food item and are enjoyed worldwide for their delicious taste and convenience.",
+      "kcal": "350",
+      "protein": "20",
+      "fat": "15",
+      "carbs": "40",
+      "id": "1"
+    },
+    {
+      "name": "Pizza",
+      "description": "Pizza is a popular Italian dish consisting of a round, flat base of dough topped with tomato sauce, cheese, and various toppings such as meats, vegetables, and herbs. It is typically baked in an oven until the crust is golden brown and the cheese is melted and bubbly. Pizza is enjoyed worldwide and comes in many variations, including classic Margherita, pepperoni, Hawaiian, and vegetarian options.",
+      "kcal": "300",
+      "protein": "15",
+      "fat": "12",
+      "carbs": "35",
+      "id": "2"
+    },
+    {
+      "name": "Pasta",
+      "description": "Pasta is a staple food in Italian cuisine, made from unleavened dough consisting of durum wheat flour mixed with water or eggs. The dough is typically kneaded and shaped into various forms, such as spaghetti, penne, or fettuccine. It is then boiled until cooked to the desired firmness and served with a variety of sauces, including marinara, Alfredo, or pesto. Pasta dishes are often garnished with grated cheese, herbs, or vegetables, making them a versatile and satisfying meal option.",
+      "kcal": "80",
+      "protein": "14",
+      "fat": "20",
+      "carbs": "3",
+      "id": "3"
+    },
+    {
+      "name": "Taco",
+      "description": "A taco is a traditional Mexican dish consisting of a folded or rolled tortilla, typically made from corn or wheat flour, filled with various ingredients such as seasoned meat (commonly beef, chicken, or pork), lettuce, tomatoes, cheese, salsa, guacamole, and sour cream. Tacos can be served soft or crispy, and they are often enjoyed as a handheld meal.",
+      "kcal": "80",
+      "protein": "14",
+      "fat": "20",
+      "carbs": "3",
+      "id": "4"
+    },
+    {
+      "name": "Sushi",
+      "description": "Sushi is a Japanese dish consisting of vinegared rice combined with various ingredients, such as raw or cooked seafood, vegetables, and sometimes tropical fruits. It is often rolled in seaweed (nori) and served in bite-sized pieces. Sushi can also be presented as sashimi, which consists of thinly sliced raw fish served without rice. ",
+      "kcal": "80",
+      "protein": "14",
+      "fat": "20",
+      "carbs": "3",
+      "id": "5"
+    },
+    {
+      "name": "Paella",
+      "description": "Paella is a Japanese dish consisting of vinegared rice combined with various ingredients, such as raw or cooked seafood, vegetables, and sometimes tropical fruits. It is often rolled in seaweed (nori) and served in bite-sized pieces. Sushi can also be presented as sashimi, which consists of thinly sliced raw fish served without rice. ",
+      "kcal": "80",
+      "protein": "14",
+      "fat": "20",
+      "carbs": "3",
+      "id": "6"
+    },
+    {
+      "name": "c",
+      "description": "c",
+      "kcal": "1",
+      "protein": "1",
+      "fat": "1",
+      "carbs": "1",
+      "id": "BXkzNTX"
+    }
+  ]
+}

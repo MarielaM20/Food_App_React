@@ -1,0 +1,21 @@
+.component {
+    background-color: #FBF8F1;
+    height: auto;
+}
+
+.headerBar {
+    background-color: #B33030;
+    height: 60px;
+    position: static;
+}
+
+.tabs {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+.nav{
+    margin-left: 75%;
+}
